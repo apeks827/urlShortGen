@@ -2,3 +2,4 @@
 /.database
 # IDEFiles
 /.idea
+/go.sum
